@@ -14,7 +14,7 @@ createflaskapp
 ```
 
 
-'''text
+
 Your project will consist of :
 
  * models 
@@ -23,5 +23,3 @@ Your project will consist of :
  * .gitignore 
  * main.py
  * Readme.md.
-
-'''
