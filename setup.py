@@ -7,6 +7,7 @@ setup(
     description="This is a lib to help generate flask apps with custom components",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
+    url="https://github.com/AlvaroMbeiaDanie1234/flaskfy",
     version="0.0.1",
     packages=find_packages(),
     install_requires=[
