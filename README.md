@@ -12,3 +12,16 @@ pip install flaskfy
 ```bash
 createflaskapp
 ```
+
+
+'''text
+Your project will consist of :
+
+ * models 
+ * static 
+ * templates
+ * .gitignore 
+ * main.py
+ * Readme.md.
+
+'''
