@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: flaskfy
-Version: 0.0.1
+Version: 0.1.0
 Summary: This is a lib to help generate flask apps with custom components
 Home-page: https://github.com/AlvaroMbeiaDanie1234/flaskfy
 Author: Álvaro Mbeia Daniel Miguel
