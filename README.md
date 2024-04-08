@@ -1,3 +1,3 @@
-# Meu Projeto Flask
+# Remodelando o frontend Flaskfy.
 
-Este é um projeto Flask básico.
+Este Ã© um projecto feito  pelos devs da comunidade QuickJs
